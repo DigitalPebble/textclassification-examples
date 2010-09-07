@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<corpus>
+<document id='xxxx'>
+<label>subjective</label>
+<field name='text'>smart and alert , thirteen conversations about one thing is a small gem .</field>
+</document>
+<document id='xxxx'>
+<label>subjective</label>
+<field name='text'>color , musical bounce and warm seas lapping on island shores . and just enough science to send you home thinking . </field>
+</document>
+<document id='xxxx'>
+<label>subjective</label>
+<field name='text'>it is not a mass-market entertainment but an uncompromising attempt by one artist to think about another . </field>
+</document>
+<document id='xxxx'>
+<label>objective</label>
+<field name='text'>the movie begins in the past where a young boy named sam attempts to save celebi from a hunter . </field>
+</document>
+<document id='xxxx'>
+ <label>objective</label>
+ <field name='text'>emerging from the human psyche and showing characteristics of abstract expressionism , minimalism and russian constructivism , graffiti removal has secured its place in the history of modern art while being created by artists who are unconscious of their artistic achievements . </field>
+</document>
+<document id='xxxx'>
+ <label>objective</label>
+ <field name='text'>spurning her mother's insistence that she get on with her life , mary is thrown out of the house , rejected by joe , and expelled from school as she grows larger with child . </field>
+</document>
+</corpus>
