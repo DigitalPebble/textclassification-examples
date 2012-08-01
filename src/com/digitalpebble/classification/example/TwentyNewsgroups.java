@@ -124,7 +124,7 @@ public final class TwentyNewsgroups {
 			fields.add(f);
 		}
 		tokens = analyseField(content);
-		if (content != null) {
+		if (tokens != null) {
 			Field f = new Field("content", tokens);
 			fields.add(f);
 		}
